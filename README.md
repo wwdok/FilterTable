@@ -1,3 +1,9 @@
+加了一些注释
+
+效果：
+
+![](https://i.loli.net/2021/04/24/9urqA5lQE3j8WyP.jpg)
+
 # FilterTable
 
 This Qt project shows an implementation of custom filtering in large tables (4 columns, 250000 rows).

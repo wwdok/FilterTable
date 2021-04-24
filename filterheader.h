@@ -13,7 +13,7 @@ public:
 	FilterHeader(QWidget *parent = 0);
 	~FilterHeader();
 
-	void fixWidgetPositions();
+    void fixWidgetPositions(); //固定过滤器矩形框的位置，即设置它的大小
 	void setCheckColumns(const QList<int> &checkColumns);
 
 signals:
